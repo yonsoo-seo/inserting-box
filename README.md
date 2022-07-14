@@ -1,2 +1,2 @@
 # inserting-box
-The Satisfying box fitting in to a space (through python/blender)
+The Satisfying Box Fitting Into the space (through python/blender)
