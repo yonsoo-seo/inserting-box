@@ -1,2 +1,2 @@
 # inserting-box
-A satisfying block fitting in a space through python(blender)
+The Satisfying box fitting in to a space (through python/blender)
